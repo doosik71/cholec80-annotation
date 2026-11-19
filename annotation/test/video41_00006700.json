@@ -1,0 +1,35 @@
+{
+  "annotations": [
+    {
+      "bbox": {
+        "height": 270,
+        "width": 543,
+        "x": 128,
+        "y": 170
+      },
+      "label": "other",
+      "tip": {
+        "x": 135,
+        "y": 433
+      }
+    },
+    {
+      "bbox": {
+        "height": 102,
+        "width": 154,
+        "x": 293,
+        "y": 92
+      },
+      "label": "grasper",
+      "tip": {
+        "x": 296,
+        "y": 191
+      }
+    }
+  ],
+  "height": 480,
+  "image": "video41_00006700.png",
+  "model": "claude-opus-5-5",
+  "source": "opus",
+  "width": 736
+}

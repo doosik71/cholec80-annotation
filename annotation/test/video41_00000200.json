@@ -1,0 +1,32 @@
+{
+  "annotations": [
+    {
+      "bbox": {
+        "height": 109,
+        "width": 277,
+        "x": 52,
+        "y": 152
+      },
+      "tip": {
+        "x": 328,
+        "y": 258
+      }
+    },
+    {
+      "bbox": {
+        "height": 55,
+        "width": 200,
+        "x": 278,
+        "y": 71
+      },
+      "tip": {
+        "x": 278,
+        "y": 122
+      }
+    }
+  ],
+  "height": 480,
+  "image": "video41_00000200.png",
+  "source": "tooltip-annotator/scripts/generate-annotation-monai.py",
+  "width": 736
+}

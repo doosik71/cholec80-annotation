@@ -1,0 +1,44 @@
+{
+  "annotations": [
+    {
+      "bbox": {
+        "height": 97,
+        "width": 216,
+        "x": 56,
+        "y": 117
+      },
+      "tip": {
+        "x": 271,
+        "y": 207
+      }
+    },
+    {
+      "bbox": {
+        "height": 61,
+        "width": 195,
+        "x": 256,
+        "y": 35
+      },
+      "tip": {
+        "x": 256,
+        "y": 91
+      }
+    },
+    {
+      "bbox": {
+        "height": 85,
+        "width": 318,
+        "x": 352,
+        "y": 201
+      },
+      "tip": {
+        "x": 352,
+        "y": 277
+      }
+    }
+  ],
+  "height": 480,
+  "image": "video41_00001200.png",
+  "source": "tooltip-annotator/scripts/generate-annotation-monai.py",
+  "width": 736
+}

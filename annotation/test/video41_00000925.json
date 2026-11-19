@@ -1,0 +1,48 @@
+{
+  "annotations": [
+    {
+      "bbox": {
+        "height": 100,
+        "width": 299,
+        "x": 44,
+        "y": 205
+      },
+      "label": "grasper",
+      "tip": {
+        "x": 340,
+        "y": 292
+      }
+    },
+    {
+      "bbox": {
+        "height": 55,
+        "width": 166,
+        "x": 271,
+        "y": 34
+      },
+      "label": "grasper",
+      "tip": {
+        "x": 274,
+        "y": 84
+      }
+    },
+    {
+      "bbox": {
+        "height": 80,
+        "width": 292,
+        "x": 368,
+        "y": 318
+      },
+      "label": "grasper",
+      "tip": {
+        "x": 372,
+        "y": 350
+      }
+    }
+  ],
+  "height": 480,
+  "image": "video41_00000925.png",
+  "model": "claude-opus-5-5",
+  "source": "opus",
+  "width": 736
+}

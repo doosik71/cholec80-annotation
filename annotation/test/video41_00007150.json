@@ -1,0 +1,35 @@
+{
+  "annotations": [
+    {
+      "bbox": {
+        "height": 211,
+        "width": 582,
+        "x": 90,
+        "y": 155
+      },
+      "label": "irrigator",
+      "tip": {
+        "x": 93,
+        "y": 364
+      }
+    },
+    {
+      "bbox": {
+        "height": 33,
+        "width": 125,
+        "x": 345,
+        "y": 33
+      },
+      "label": "grasper",
+      "tip": {
+        "x": 350,
+        "y": 62
+      }
+    }
+  ],
+  "height": 480,
+  "image": "video41_00007150.png",
+  "model": "claude-opus-5-5",
+  "source": "opus",
+  "width": 736
+}
