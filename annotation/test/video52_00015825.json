@@ -1,0 +1,39 @@
+{
+  "annotations": [
+    {
+      "bbox": {
+        "height": 101,
+        "width": 273,
+        "x": 83,
+        "y": 237
+      },
+      "label": "other",
+      "tip": {
+        "x": 352,
+        "y": 332
+      }
+    },
+    {
+      "bbox": {
+        "height": 117,
+        "width": 193,
+        "x": 483,
+        "y": 276
+      },
+      "label": "clipper",
+      "tip": {
+        "x": 490,
+        "y": 307
+      },
+      "tip2": {
+        "x": 485,
+        "y": 344
+      }
+    }
+  ],
+  "height": 480,
+  "image": "video52_00015825.png",
+  "model": "claude-opus-5-5",
+  "source": "opus",
+  "width": 736
+}

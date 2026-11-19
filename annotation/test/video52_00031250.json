@@ -1,0 +1,32 @@
+{
+  "annotations": [
+    {
+      "bbox": {
+        "height": 101,
+        "width": 205,
+        "x": 136,
+        "y": 64
+      },
+      "tip": {
+        "x": 339,
+        "y": 161
+      }
+    },
+    {
+      "bbox": {
+        "height": 148,
+        "width": 236,
+        "x": 409,
+        "y": 76
+      },
+      "tip": {
+        "x": 411,
+        "y": 220
+      }
+    }
+  ],
+  "height": 480,
+  "image": "video52_00031250.png",
+  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "width": 736
+}
