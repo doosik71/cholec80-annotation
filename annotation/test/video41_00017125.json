@@ -2,31 +2,34 @@
   "annotations": [
     {
       "bbox": {
-        "height": 110,
-        "width": 182,
-        "x": 401,
-        "y": 34
+        "height": 107,
+        "width": 192,
+        "x": 398,
+        "y": 33
       },
+      "label": "grasper",
       "tip": {
-        "x": 403,
-        "y": 38
+        "x": 585,
+        "y": 135
       }
     },
     {
       "bbox": {
-        "height": 82,
-        "width": 144,
-        "x": 519,
-        "y": 146
+        "height": 90,
+        "width": 173,
+        "x": 490,
+        "y": 148
       },
+      "label": "hook",
       "tip": {
-        "x": 520,
-        "y": 222
+        "x": 490,
+        "y": 223
       }
     }
   ],
+  "edited_at": "2026-11-19T16:37:16+09:00",
   "height": 480,
   "image": "video41_00017125.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "source": "manual",
   "width": 736
 }
