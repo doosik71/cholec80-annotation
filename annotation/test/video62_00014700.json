@@ -1,0 +1,44 @@
+{
+  "annotations": [
+    {
+      "bbox": {
+        "height": 85,
+        "width": 192,
+        "x": 34,
+        "y": 124
+      },
+      "tip": {
+        "x": 224,
+        "y": 142
+      }
+    },
+    {
+      "bbox": {
+        "height": 138,
+        "width": 173,
+        "x": 351,
+        "y": 34
+      },
+      "tip": {
+        "x": 353,
+        "y": 166
+      }
+    },
+    {
+      "bbox": {
+        "height": 62,
+        "width": 107,
+        "x": 528,
+        "y": 52
+      },
+      "tip": {
+        "x": 529,
+        "y": 87
+      }
+    }
+  ],
+  "height": 480,
+  "image": "video62_00014700.png",
+  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "width": 736
+}
