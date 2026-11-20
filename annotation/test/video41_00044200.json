@@ -2,19 +2,21 @@
   "annotations": [
     {
       "bbox": {
-        "height": 165,
-        "width": 350,
-        "x": 293,
-        "y": 120
+        "height": 172,
+        "width": 353,
+        "x": 288,
+        "y": 118
       },
+      "label": "hook",
       "tip": {
-        "x": 294,
-        "y": 280
+        "x": 292,
+        "y": 283
       }
     }
   ],
   "height": 480,
   "image": "video41_00044200.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "model": "claude-opus-5-5",
+  "source": "opus",
   "width": 736
 }

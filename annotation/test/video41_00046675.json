@@ -2,31 +2,34 @@
   "annotations": [
     {
       "bbox": {
-        "height": 125,
-        "width": 203,
-        "x": 413,
+        "height": 126,
+        "width": 221,
+        "x": 385,
         "y": 34
       },
+      "label": "hook",
       "tip": {
-        "x": 415,
-        "y": 146
+        "x": 388,
+        "y": 140
       }
     },
     {
       "bbox": {
-        "height": 129,
-        "width": 220,
-        "x": 424,
-        "y": 203
+        "height": 134,
+        "width": 224,
+        "x": 420,
+        "y": 200
       },
+      "label": "irrigator",
       "tip": {
-        "x": 425,
-        "y": 323
+        "x": 424,
+        "y": 322
       }
     }
   ],
   "height": 480,
   "image": "video41_00046675.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "model": "claude-opus-5-5",
+  "source": "opus",
   "width": 736
 }

@@ -2,31 +2,47 @@
   "annotations": [
     {
       "bbox": {
-        "height": 67,
-        "width": 300,
-        "x": 365,
-        "y": 269
+        "height": 68,
+        "width": 307,
+        "x": 361,
+        "y": 267
       },
+      "label": "irrigator",
       "tip": {
-        "x": 367,
-        "y": 294
+        "x": 361,
+        "y": 295
       }
     },
     {
       "bbox": {
-        "height": 71,
-        "width": 90,
+        "height": 70,
+        "width": 92,
         "x": 416,
         "y": 34
       },
+      "label": "grasper",
       "tip": {
-        "x": 502,
+        "x": 500,
         "y": 102
+      }
+    },
+    {
+      "bbox": {
+        "height": 43,
+        "width": 94,
+        "x": 534,
+        "y": 402
+      },
+      "label": "grasper",
+      "tip": {
+        "x": 534,
+        "y": 443
       }
     }
   ],
+  "edited_at": "2026-11-19T17:29:32+09:00",
   "height": 480,
   "image": "video41_00021775.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "source": "manual",
   "width": 736
 }

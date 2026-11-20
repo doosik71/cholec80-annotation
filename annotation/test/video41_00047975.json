@@ -2,19 +2,34 @@
   "annotations": [
     {
       "bbox": {
-        "height": 202,
-        "width": 311,
-        "x": 334,
-        "y": 239
+        "height": 130,
+        "width": 302,
+        "x": 328,
+        "y": 312
       },
+      "label": "hook",
       "tip": {
-        "x": 336,
-        "y": 344
+        "x": 331,
+        "y": 346
+      }
+    },
+    {
+      "bbox": {
+        "height": 95,
+        "width": 211,
+        "x": 432,
+        "y": 235
+      },
+      "label": "other",
+      "tip": {
+        "x": 436,
+        "y": 322
       }
     }
   ],
   "height": 480,
   "image": "video41_00047975.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "model": "claude-opus-5-5",
+  "source": "opus",
   "width": 736
 }

@@ -1,20 +1,7 @@
 {
-  "annotations": [
-    {
-      "bbox": {
-        "height": 44,
-        "width": 105,
-        "x": 315,
-        "y": 294
-      },
-      "tip": {
-        "x": 315,
-        "y": 303
-      }
-    }
-  ],
+  "annotations": [],
   "height": 480,
   "image": "video41_00043425.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "source": "tooltip-annotator/scripts/generate-annotation-monai.py",
   "width": 736
 }

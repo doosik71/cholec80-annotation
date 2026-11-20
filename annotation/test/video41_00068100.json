@@ -2,19 +2,38 @@
   "annotations": [
     {
       "bbox": {
-        "height": 161,
-        "width": 364,
-        "x": 230,
-        "y": 34
+        "height": 134,
+        "width": 264,
+        "x": 222,
+        "y": 33
       },
+      "label": "bipolar",
       "tip": {
-        "x": 233,
-        "y": 38
+        "x": 485,
+        "y": 160
+      }
+    },
+    {
+      "bbox": {
+        "height": 157,
+        "width": 277,
+        "x": 324,
+        "y": 36
+      },
+      "label": "irrigator",
+      "tip": {
+        "x": 324,
+        "y": 185
+      },
+      "tip2": {
+        "x": 360,
+        "y": 192
       }
     }
   ],
+  "edited_at": "2026-11-20T16:38:01+09:00",
   "height": 480,
   "image": "video41_00068100.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "source": "manual",
   "width": 736
 }

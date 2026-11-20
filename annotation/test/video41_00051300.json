@@ -2,19 +2,50 @@
   "annotations": [
     {
       "bbox": {
-        "height": 235,
-        "width": 334,
-        "x": 297,
-        "y": 122
+        "height": 128,
+        "width": 363,
+        "x": 279,
+        "y": 228
+      },
+      "label": "bipolar",
+      "tip": {
+        "x": 281,
+        "y": 272
+      },
+      "tip2": {
+        "x": 279,
+        "y": 247
+      }
+    },
+    {
+      "bbox": {
+        "height": 128,
+        "width": 276,
+        "x": 304,
+        "y": 120
+      },
+      "label": "irrigator",
+      "tip": {
+        "x": 305,
+        "y": 238
+      }
+    },
+    {
+      "bbox": {
+        "height": 48,
+        "width": 43,
+        "x": 81,
+        "y": 164
       },
       "tip": {
-        "x": 300,
-        "y": 275
+        "x": 123,
+        "y": 201
       }
     }
   ],
+  "edited_at": "2026-11-20T13:34:59+09:00",
   "height": 480,
   "image": "video41_00051300.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "source": "manual",
   "width": 736
 }

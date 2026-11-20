@@ -2,19 +2,33 @@
   "annotations": [
     {
       "bbox": {
-        "height": 209,
-        "width": 344,
-        "x": 331,
-        "y": 74
+        "height": 182,
+        "width": 320,
+        "x": 321,
+        "y": 96
+      },
+      "label": "irrigator",
+      "tip": {
+        "x": 321,
+        "y": 237
+      }
+    },
+    {
+      "bbox": {
+        "height": 62,
+        "width": 89,
+        "x": 503,
+        "y": 77
       },
       "tip": {
-        "x": 333,
-        "y": 246
+        "x": 504,
+        "y": 135
       }
     }
   ],
+  "edited_at": "2026-11-20T16:01:51+09:00",
   "height": 480,
   "image": "video41_00060600.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "source": "manual",
   "width": 736
 }

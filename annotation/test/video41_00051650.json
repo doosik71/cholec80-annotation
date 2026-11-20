@@ -2,19 +2,21 @@
   "annotations": [
     {
       "bbox": {
-        "height": 102,
-        "width": 208,
-        "x": 307,
-        "y": 250
+        "height": 109,
+        "width": 225,
+        "x": 303,
+        "y": 244
       },
+      "label": "irrigator",
       "tip": {
-        "x": 309,
-        "y": 338
+        "x": 308,
+        "y": 344
       }
     }
   ],
   "height": 480,
   "image": "video41_00051650.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "model": "claude-opus-5-5",
+  "source": "opus",
   "width": 736
 }

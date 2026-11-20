@@ -14,19 +14,32 @@
     },
     {
       "bbox": {
-        "height": 97,
-        "width": 229,
+        "height": 55,
+        "width": 139,
         "x": 415,
-        "y": 241
+        "y": 283
       },
       "tip": {
         "x": 416,
         "y": 332
       }
+    },
+    {
+      "bbox": {
+        "height": 49,
+        "width": 136,
+        "x": 507,
+        "y": 238
+      },
+      "tip": {
+        "x": 509,
+        "y": 254
+      }
     }
   ],
+  "edited_at": "2026-11-20T13:11:16+09:00",
   "height": 480,
   "image": "video41_00047750.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "source": "manual",
   "width": 736
 }
