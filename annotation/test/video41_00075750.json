@@ -2,19 +2,21 @@
   "annotations": [
     {
       "bbox": {
-        "height": 106,
-        "width": 405,
+        "height": 153,
+        "width": 427,
         "x": 88,
-        "y": 145
+        "y": 105
       },
+      "label": "specimen bag",
       "tip": {
-        "x": 486,
-        "y": 148
+        "x": 510,
+        "y": 135
       }
     }
   ],
   "height": 480,
   "image": "video41_00075750.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "model": "claude-opus-5-5",
+  "source": "opus",
   "width": 736
 }

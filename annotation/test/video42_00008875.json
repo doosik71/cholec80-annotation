@@ -4,29 +4,32 @@
       "bbox": {
         "height": 167,
         "width": 263,
-        "x": 446,
-        "y": 185
+        "x": 445,
+        "y": 183
       },
+      "label": "hook",
       "tip": {
         "x": 448,
-        "y": 307
+        "y": 300
       }
     },
     {
       "bbox": {
-        "height": 59,
+        "height": 58,
         "width": 164,
-        "x": 510,
-        "y": 59
+        "x": 508,
+        "y": 60
       },
+      "label": "grasper",
       "tip": {
-        "x": 511,
-        "y": 114
+        "x": 512,
+        "y": 102
       }
     }
   ],
   "height": 480,
   "image": "video42_00008875.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "model": "claude-opus-5-5",
+  "source": "opus",
   "width": 736
 }

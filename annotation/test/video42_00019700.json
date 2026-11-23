@@ -3,18 +3,33 @@
     {
       "bbox": {
         "height": 240,
-        "width": 246,
-        "x": 85,
-        "y": 34
+        "width": 134,
+        "x": 88,
+        "y": 35
       },
+      "label": "other",
       "tip": {
-        "x": 329,
-        "y": 149
+        "x": 180,
+        "y": 270
+      }
+    },
+    {
+      "bbox": {
+        "height": 107,
+        "width": 135,
+        "x": 200,
+        "y": 55
+      },
+      "label": "grasper",
+      "tip": {
+        "x": 330,
+        "y": 156
       }
     }
   ],
   "height": 480,
   "image": "video42_00019700.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "model": "claude-opus-5-5",
+  "source": "opus",
   "width": 736
 }

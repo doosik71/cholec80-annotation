@@ -2,31 +2,21 @@
   "annotations": [
     {
       "bbox": {
-        "height": 68,
-        "width": 153,
-        "x": 101,
-        "y": 332
+        "height": 153,
+        "width": 147,
+        "x": 430,
+        "y": 102
       },
+      "label": "grasper",
       "tip": {
-        "x": 252,
-        "y": 356
-      }
-    },
-    {
-      "bbox": {
-        "height": 219,
-        "width": 216,
-        "x": 426,
-        "y": 35
-      },
-      "tip": {
-        "x": 429,
-        "y": 253
+        "x": 464,
+        "y": 234
       }
     }
   ],
   "height": 480,
   "image": "video42_00002425.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "model": "Qwen/Qwen3-VL-8B-Instruct",
+  "source": "qwen",
   "width": 736
 }

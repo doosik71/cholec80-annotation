@@ -2,19 +2,21 @@
   "annotations": [
     {
       "bbox": {
-        "height": 148,
-        "width": 296,
-        "x": 411,
-        "y": 261
+        "height": 134,
+        "width": 301,
+        "x": 405,
+        "y": 258
       },
+      "label": "hook",
       "tip": {
-        "x": 413,
-        "y": 363
+        "x": 406,
+        "y": 347
       }
     }
   ],
+  "edited_at": "2026-11-23T11:03:12+09:00",
   "height": 480,
   "image": "video42_00014325.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "source": "manual",
   "width": 736
 }

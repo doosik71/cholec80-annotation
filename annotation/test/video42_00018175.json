@@ -3,18 +3,37 @@
     {
       "bbox": {
         "height": 224,
-        "width": 455,
-        "x": 96,
-        "y": 57
+        "width": 454,
+        "x": 98,
+        "y": 58
       },
+      "label": "clipper",
       "tip": {
-        "x": 546,
+        "x": 548,
         "y": 272
+      },
+      "tip2": {
+        "x": 538,
+        "y": 148
+      }
+    },
+    {
+      "bbox": {
+        "height": 54,
+        "width": 47,
+        "x": 655,
+        "y": 142
+      },
+      "label": "hook",
+      "tip": {
+        "x": 658,
+        "y": 193
       }
     }
   ],
   "height": 480,
   "image": "video42_00018175.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "model": "claude-opus-5-5",
+  "source": "opus",
   "width": 736
 }

@@ -3,18 +3,20 @@
     {
       "bbox": {
         "height": 194,
-        "width": 278,
-        "x": 447,
-        "y": 72
+        "width": 284,
+        "x": 426,
+        "y": 73
       },
+      "label": "hook",
       "tip": {
-        "x": 448,
-        "y": 249
+        "x": 430,
+        "y": 241
       }
     }
   ],
   "height": 480,
   "image": "video42_00013000.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "model": "claude-opus-5-5",
+  "source": "opus",
   "width": 736
 }

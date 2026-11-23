@@ -1,7 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "bbox": {
+        "height": 96,
+        "width": 32,
+        "x": 230,
+        "y": 310
+      },
+      "label": "grasper",
+      "tip": {
+        "x": 243,
+        "y": 398
+      }
+    }
+  ],
   "height": 480,
   "image": "video42_00001475.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "model": "Qwen/Qwen3-VL-8B-Instruct",
+  "source": "qwen",
   "width": 736
 }

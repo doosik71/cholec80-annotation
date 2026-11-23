@@ -3,30 +3,33 @@
     {
       "bbox": {
         "height": 118,
-        "width": 290,
-        "x": 83,
-        "y": 172
+        "width": 281,
+        "x": 86,
+        "y": 166
       },
+      "label": "grasper",
       "tip": {
-        "x": 370,
-        "y": 266
+        "x": 364,
+        "y": 262
       }
     },
     {
       "bbox": {
-        "height": 195,
-        "width": 219,
-        "x": 490,
-        "y": 114
+        "height": 192,
+        "width": 243,
+        "x": 469,
+        "y": 118
       },
+      "label": "hook",
       "tip": {
-        "x": 494,
-        "y": 303
+        "x": 471,
+        "y": 275
       }
     }
   ],
   "height": 480,
   "image": "video42_00018850.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "model": "claude-opus-5-5",
+  "source": "opus",
   "width": 736
 }

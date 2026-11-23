@@ -2,43 +2,47 @@
   "annotations": [
     {
       "bbox": {
-        "height": 155,
-        "width": 131,
-        "x": 84,
-        "y": 215
+        "height": 158,
+        "width": 128,
+        "x": 86,
+        "y": 214
       },
+      "label": "grasper",
       "tip": {
-        "x": 201,
-        "y": 349
+        "x": 205,
+        "y": 335
       }
     },
     {
       "bbox": {
-        "height": 78,
-        "width": 79,
-        "x": 113,
+        "height": 74,
+        "width": 80,
+        "x": 112,
         "y": 36
       },
+      "label": "grasper",
       "tip": {
         "x": 185,
-        "y": 46
+        "y": 75
       }
     },
     {
       "bbox": {
-        "height": 146,
-        "width": 239,
-        "x": 470,
+        "height": 143,
+        "width": 256,
+        "x": 452,
         "y": 163
       },
+      "label": "hook",
       "tip": {
-        "x": 472,
+        "x": 455,
         "y": 292
       }
     }
   ],
   "height": 480,
   "image": "video42_00016175.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "model": "claude-opus-5-5",
+  "source": "opus",
   "width": 736
 }
