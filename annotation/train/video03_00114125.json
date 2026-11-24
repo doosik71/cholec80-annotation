@@ -2,31 +2,31 @@
   "annotations": [
     {
       "bbox": {
-        "height": 69,
-        "width": 162,
-        "x": 183,
-        "y": 34
+        "height": 75,
+        "width": 177,
+        "x": 179,
+        "y": 32
       },
       "tip": {
-        "x": 340,
-        "y": 99
+        "x": 354,
+        "y": 96
       }
     },
     {
       "bbox": {
-        "height": 77,
-        "width": 322,
+        "height": 75,
+        "width": 324,
         "x": 412,
-        "y": 160
+        "y": 161
       },
       "tip": {
-        "x": 414,
-        "y": 219
+        "x": 412,
+        "y": 217
       }
     }
   ],
   "height": 480,
   "image": "video03_00114125.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "source": "standalone/detrtooltip/data/model/cholec80/model.pt",
   "width": 736
 }
