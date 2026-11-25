@@ -2,20 +2,23 @@
   "annotations": [
     {
       "bbox": {
-        "height": 162,
+        "height": 161,
         "width": 296,
-        "x": 326,
+        "x": 327,
         "y": 284
       },
       "tip": {
-        "x": 327,
-        "y": 362
+        "x": 352,
+        "y": 294
+      },
+      "tip2": {
+        "x": 330,
+        "y": 358
       }
     }
   ],
-  "edited_at": "2026-11-11T16:01:38+09:00",
   "height": 480,
   "image": "video23_00016100.png",
-  "source": "manual",
+  "source": "standalone/detrtooltip/data/model/cholec80/model.pt",
   "width": 736
 }

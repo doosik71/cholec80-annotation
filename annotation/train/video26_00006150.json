@@ -10,6 +10,10 @@
       "tip": {
         "x": 205,
         "y": 222
+      },
+      "tip2": {
+        "x": 118,
+        "y": 218
       }
     },
     {
@@ -20,13 +24,14 @@
         "y": 308
       },
       "tip": {
-        "x": 332,
-        "y": 377
+        "x": 343,
+        "y": 325
       }
     }
   ],
+  "edited_at": "2026-11-25T16:38:47+09:00",
   "height": 480,
   "image": "video26_00006150.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "source": "manual",
   "width": 736
 }
