@@ -3,42 +3,31 @@
     {
       "bbox": {
         "height": 178,
-        "width": 346,
-        "x": 294,
+        "width": 351,
+        "x": 289,
         "y": 102
       },
       "tip": {
-        "x": 295,
-        "y": 266
+        "x": 289,
+        "y": 260
       }
     },
     {
       "bbox": {
-        "height": 30,
-        "width": 42,
+        "height": 67,
+        "width": 153,
+        "x": 373,
+        "y": 33
+      },
+      "tip": {
         "x": 376,
-        "y": 69
-      },
-      "tip": {
-        "x": 377,
-        "y": 97
-      }
-    },
-    {
-      "bbox": {
-        "height": 39,
-        "width": 85,
-        "x": 428,
-        "y": 34
-      },
-      "tip": {
-        "x": 428,
-        "y": 63
+        "y": 98
       }
     }
   ],
+  "edited_at": "2026-11-26T17:57:16+09:00",
   "height": 480,
   "image": "video46_00002775.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "source": "manual",
   "width": 736
 }

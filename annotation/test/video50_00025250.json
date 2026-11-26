@@ -3,13 +3,17 @@
     {
       "bbox": {
         "height": 206,
-        "width": 412,
-        "x": 214,
+        "width": 400,
+        "x": 201,
         "y": 240
       },
       "tip": {
-        "x": 217,
-        "y": 253
+        "x": 222,
+        "y": 242
+      },
+      "tip2": {
+        "x": 201,
+        "y": 279
       }
     },
     {
@@ -25,8 +29,9 @@
       }
     }
   ],
+  "edited_at": "2026-11-26T18:37:14+09:00",
   "height": 480,
   "image": "video50_00025250.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "source": "manual",
   "width": 736
 }
