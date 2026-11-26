@@ -3,30 +3,35 @@
     {
       "bbox": {
         "height": 44,
-        "width": 46,
+        "width": 47,
         "x": 132,
         "y": 286
       },
       "tip": {
-        "x": 173,
-        "y": 291
+        "x": 178,
+        "y": 304
       }
     },
     {
       "bbox": {
         "height": 79,
-        "width": 204,
-        "x": 428,
+        "width": 223,
+        "x": 409,
         "y": 262
       },
       "tip": {
-        "x": 428,
-        "y": 308
+        "x": 409,
+        "y": 310
+      },
+      "tip2": {
+        "x": 412,
+        "y": 288
       }
     }
   ],
+  "edited_at": "2026-11-26T14:26:39+09:00",
   "height": 480,
   "image": "video33_00009575.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "source": "manual",
   "width": 736
 }
