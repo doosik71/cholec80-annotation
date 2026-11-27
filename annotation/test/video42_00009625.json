@@ -2,7 +2,7 @@
   "annotations": [
     {
       "bbox": {
-        "height": 62,
+        "height": 61,
         "width": 111,
         "x": 128,
         "y": 384
@@ -19,6 +19,7 @@
         "x": 355,
         "y": 174
       },
+      "label": "hook",
       "tip": {
         "x": 355,
         "y": 330
@@ -31,13 +32,14 @@
         "x": 500,
         "y": 39
       },
+      "label": "grasper",
       "tip": {
         "x": 502,
         "y": 106
       }
     }
   ],
-  "edited_at": "2026-11-23T10:35:56+09:00",
+  "edited_at": "2026-11-27T09:50:12+09:00",
   "height": 480,
   "image": "video42_00009625.png",
   "source": "manual",

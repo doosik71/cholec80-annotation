@@ -2,21 +2,21 @@
   "annotations": [
     {
       "bbox": {
-        "height": 153,
-        "width": 147,
+        "height": 160,
+        "width": 162,
         "x": 430,
-        "y": 102
+        "y": 95
       },
       "label": "grasper",
       "tip": {
-        "x": 464,
-        "y": 234
+        "x": 432,
+        "y": 252
       }
     }
   ],
+  "edited_at": "2026-11-27T09:36:33+09:00",
   "height": 480,
   "image": "video42_00002425.png",
-  "model": "Qwen/Qwen3-VL-8B-Instruct",
-  "source": "qwen",
+  "source": "manual",
   "width": 736
 }

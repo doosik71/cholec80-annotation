@@ -3,30 +3,33 @@
     {
       "bbox": {
         "height": 38,
-        "width": 79,
+        "width": 89,
         "x": 88,
         "y": 169
       },
+      "label": "grasper",
       "tip": {
-        "x": 162,
-        "y": 203
+        "x": 176,
+        "y": 205
       }
     },
     {
       "bbox": {
-        "height": 221,
-        "width": 326,
-        "x": 335,
+        "height": 225,
+        "width": 272,
+        "x": 389,
         "y": 34
       },
+      "label": "irrigator",
       "tip": {
-        "x": 338,
-        "y": 237
+        "x": 402,
+        "y": 258
       }
     }
   ],
+  "edited_at": "2026-11-27T10:08:22+09:00",
   "height": 480,
   "image": "video42_00035750.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "source": "manual",
   "width": 736
 }

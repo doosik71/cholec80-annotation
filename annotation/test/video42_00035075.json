@@ -7,6 +7,7 @@
         "x": 90,
         "y": 120
       },
+      "label": "grasper",
       "tip": {
         "x": 300,
         "y": 207
@@ -15,18 +16,20 @@
     {
       "bbox": {
         "height": 163,
-        "width": 192,
-        "x": 452,
+        "width": 203,
+        "x": 441,
         "y": 34
       },
+      "label": "hook",
       "tip": {
-        "x": 456,
-        "y": 193
+        "x": 441,
+        "y": 191
       }
     }
   ],
+  "edited_at": "2026-11-27T10:06:17+09:00",
   "height": 480,
   "image": "video42_00035075.png",
-  "source": "standalone/yolov8stooltip/data/model/cholec80/model.pt",
+  "source": "manual",
   "width": 736
 }
